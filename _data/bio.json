@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Cristina Martinez Guevara",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/CristinaMartinezG.png",
+    "email": "guevara_mtzcrist@hotmail.com",
+    "phone": "+31 6 82 13 49 44",
+    "website": "https://CristinaMartinezG.github.io",
+    "summary": "I am a Mechanical Engineer student, I am eager to apply my knowledge and skills to real-world projects. I have a strong foundation in mechanical design, thermodynamics, and materials science, as well as experience with computer-aided design and simulation software. I am a quick learner, highly motivated, and committed to ongoing professional development. I am confident that my abilities and enthusiasm make me a valuable asset to any team.",
+    "location": { "address": "", "postalCode": "6824GM", "city": "Arnhem", "countryCode": "Netherlands", "region": "Gelderland" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "CristinaMartinezG", "url": "http://github.com/CristinaMartinezG" },
+      { "network": "linkedin", "username": "Cristina Martinez", "url": "https://www.linkedin.com/in/cristina-martinez-2b8a1a240" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Design and analysis of mechanical systems" },
+    { "name": "Product development and prototyping" },
+    { "name": "Automation and control systems" },
+    { "name": "Finite element analysis (FEA) and computational fluid dynamics (CFD)" },
+    { "name": "Robotics and mechatronics" }
   ],
   "skills": [
     {
