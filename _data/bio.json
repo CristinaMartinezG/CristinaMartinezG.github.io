@@ -3,7 +3,7 @@
     "name": "Cristina Martinez Guevara",
     "label": "Student",
     "picture": "https://github.com/CristinaMartinezG.png",
-    "email": "guevara_mtzcrist@hotmail.com",
+    "email": "C.MartinezGuevara@student.han.nl",
     "phone": "+31 6 82 13 49 44",
     "website": "https://CristinaMartinezG.github.io",
     "summary": "Hi! I'm a Mechanical Engineering student at HAN University, Netherlands with a driven attitude and skill set including team work and quick learning. Seeking opportunities to expand knowledge and gain hands-on experience.",
@@ -24,22 +24,29 @@
     {
       "name": "Languages",
       "keywords": [ "Spanish", "English", "French" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "HAN University of Applied Science",
+      "location": "Arnhem, Netherlands"
+      "area": "Mechanical engineer (expected graduation, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-09-01",
       "endDate": "Present",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "Colegio Villa Rica",
+      "area": "Mexico, Veracruz ",
+      "studyType": "B.S.",
+      "startDate": "2016",
+      "endDate": "2020",
+      "courses": [
+      ]
+    },
+    
   ],
   "work": [
     {
