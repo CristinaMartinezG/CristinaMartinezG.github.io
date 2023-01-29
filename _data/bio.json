@@ -30,7 +30,7 @@
     {
       "institution": "HAN University of Applied Science",
       "area": "Mechanical engineer (expected graduation, 2025)",
-      "studyType": "B.S.",
+      "studyType": "Bachelor's degree",
       "startDate": "2021-09-01",
       "endDate": "Present",
       "courses": [
@@ -39,9 +39,18 @@
     {
       "institution": "Colegio Villa Rica",
       "area": "Mexico, Veracruz ",
-      "studyType": "B.S.",
+      "studyType": "Baccalaureate",
       "startDate": "2016",
       "endDate": "2020",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Ella Fitzgerald",
+      "area": "France, Lyon ",
+      "studyType": "Exchange",
+      "startDate": "2017",
+      "endDate": "2019",
       "courses": [
       ]
     }
