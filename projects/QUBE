@@ -4,7 +4,7 @@ type: project
 image: img/QUBE_CAD.png
 title: "Robotic QUBE"
 date: 2023-08-01
-published: true
+published: False
 labels:
   - Robotics
   - Gripper
