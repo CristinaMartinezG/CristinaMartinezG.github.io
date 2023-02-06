@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+image: img/QUBE_CAD.png
+title: "Robotic QUBE"
 date: 2015
 published: True
 labels:
   - Robotics
-  - Arduino
-  - C++
+  - Assembly line
+  - Design
 summary: "My team developed the so called Qing Qube which is meant to be used as a quick and easy way of setting up an automated assembly line."
 ---
 
