@@ -14,7 +14,7 @@ summary: "My team developed the so called Qing Qube which is meant to be used as
 
 <div class="text-center p-4">
   <img width="200px" src="../img/WhatsApp Image 2022-11-28 at 16.13.56.jpeg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/Delta picker.png" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
