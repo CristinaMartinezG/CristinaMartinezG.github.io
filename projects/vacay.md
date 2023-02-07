@@ -13,7 +13,7 @@ labels:
 summary: "The assignment was to design and construct a wind turbine and a waterpump that could be powered by it."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/vacay/wind stand.jpg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
