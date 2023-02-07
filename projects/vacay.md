@@ -16,6 +16,7 @@ summary: "The assignment was to design and construct a wind turbine and a waterp
   <img width="200px" src="../img/vacay/wind stand.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/vacay/Pump.png" class="img-thumbnail" >
   <img width="200px" src="../img/vacay/windmill.png" >
+  <img width="200px" src="../img/vacay/Turbine (2).jpg" >
 </div>
 
 
