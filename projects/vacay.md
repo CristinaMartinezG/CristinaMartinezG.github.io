@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
+title: "Windmill"
 date: 2015
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Design
+  - Truss structure
+  - Windmill
+  - Solidworks
+summary: "The assignment was to design and construct a wind turbine and a waterpump that could be powered by it."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
