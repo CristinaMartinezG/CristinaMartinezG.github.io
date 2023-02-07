@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Windmill"
+title: "Windmill and waterpump"
 date: 2015
 published: true
 labels:
@@ -12,8 +12,12 @@ labels:
   - Solidworks
 summary: "The assignment was to design and construct a wind turbine and a waterpump that could be powered by it."
 ---
+<div class="text-center p-4">
+  <img width="200px" src="../img/WhatsApp Image 2022-11-28 at 16.13.56.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/Delta picker.png" class="img-thumbnail" >
+  <img width="200px" src="../img/gripper.png" class="img-thumbnail" >
+</div>
 
-<img class="img-fluid" src="../img/vacay/wind stand.jpg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
