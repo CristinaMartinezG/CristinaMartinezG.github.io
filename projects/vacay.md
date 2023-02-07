@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/windmill.png
 title: "Windmill and waterpump"
 date: 2015
 published: true
@@ -15,7 +15,7 @@ summary: "The assignment was to design and construct a wind turbine and a waterp
 <div class="text-center p-4">
   <img width="200px" src="../img/vacay/wind stand.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/vacay/Pump.png" class="img-thumbnail" >
-  <img width="200px" src="../img/gripper.png" class="img-thumbnail" >
+  <img width="200px" src="../img/vacay/windmill.png" >
 </div>
 
 
