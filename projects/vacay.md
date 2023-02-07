@@ -13,7 +13,7 @@ labels:
 summary: "The assignment was to design and construct a wind turbine and a waterpump that could be powered by it."
 ---
 <div class="text-center p-4">
-  <img width="200px" src="../img/WhatsApp Image 2022-11-28 at 16.13.56.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/vacay/wind stand.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/Delta picker.png" class="img-thumbnail" >
   <img width="200px" src="../img/gripper.png" class="img-thumbnail" >
 </div>
