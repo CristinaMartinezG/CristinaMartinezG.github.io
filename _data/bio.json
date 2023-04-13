@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Cristina Martinez Guevara",
+    "label": "Student",
+    "picture": "https://github.com/CristinaMartinezG.png",
+    "email": "C.MartinezGuevara@student.han.nl",
+    "phone": "+31 6 82 13 49 44",
+    "website": "https://CristinaMartinezG.github.io",
+    "summary": "Hi! I'm a Mechanical Engineering student at HAN University, Netherlands with a driven attitude and skill set including team work and quick learning. Seeking opportunities to expand knowledge and gain hands-on experience.",
+    "location": { "address": "", "postalCode": "6824GM", "city": "Arnhem", "countryCode": "Netherlands", "region": "Gelderland" },
+    "profiles": [
+      { "network": "github", "username": "CristinaMartinezG", "url": "http://github.com/CristinaMartinezG" },
+      { "network": "linkedin", "username": "Cristina Martinez", "url": "https://www.linkedin.com/in/cristina-martinez-2b8a1a240" }
+    ]
+  },
+  "interests": [
+    { "name": "Design and analysis of mechanical systems" },
+    { "name": "Product development and prototyping" },
+    { "name": "Automation and control systems" },
+    { "name": "Finite element analysis (FEA) and computational fluid dynamics (CFD)" },
+    { "name": "Robotics and mechatronics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "Spanish", "English", "French" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "HAN University of Applied Science",
+      "area": "Mechanical engineer (expected graduation, 2025)",
+      "studyType": "Bachelor's degree",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Colegio Villa Rica",
+      "area": "Mexico, Veracruz ",
+      "studyType": "Baccalaureate",
+      "startDate": "2016",
+      "endDate": "2020",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Ella Fitzgerald",
+      "area": "France, Lyon ",
+      "studyType": "Exchange",
+      "startDate": "2017",
+      "endDate": "2019",
+      "courses": [
+      ]
+    }
+    
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
